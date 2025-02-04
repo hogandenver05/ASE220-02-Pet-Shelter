@@ -1,4 +1,4 @@
-# Pet Shelter Management Application
+# A Pet Shelter Management Application
 
 ### Group Members:
 **Denver Hogan**

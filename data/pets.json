@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Buddy",
+        "type": "Dog",
+        "breed": "Golden Retriever",
+        "age": 2,
+        "gender": "Male",
+        "img": "../images/dog-1.png"
+    },
+    {
+        "name": "Luna",
+        "type": "Cat",
+        "breed": "British Longhair",
+        "age": 1,
+        "gender": "Female",
+        "img": "../images/cat-1.png"
+    },
+    {
+        "name": "Max",
+        "type": "Dog",
+        "breed": "Beagle",
+        "age": 3,
+        "gender": "Male",
+        "img": "../images/dog-2.png"
+    },
+    {
+        "name": "Bella",
+        "type": "Cat",
+        "breed": "British Shorthair",
+        "age": 4,
+        "gender": "Female",
+        "img": "../images/cat-2.png"
+    },
+    {
+        "name": "Rocky",
+        "type": "Dog",
+        "breed": "Corgi Mix",
+        "age": 5,
+        "gender": "Male",
+        "img": "../images/dog-3.png"
+    },
+    {
+        "name": "Milo",
+        "type": "Cat",
+        "breed": "American Curl",
+        "age": 2,
+        "gender": "Male",
+        "img": "../images/cat-3.png"
+    }
+]
