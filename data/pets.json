@@ -5,7 +5,8 @@
         "breed": "Golden Retriever",
         "age": 2,
         "gender": "Male",
-        "img": "../images/dog-1.png"
+        "img": "../images/dog-1.png",
+        "bio": "Buddy is a playful and energetic Golden Retriever who loves to run around and play fetch. He enjoys spending time outdoors, whether it's at the park or on a hike. His friendly and affectionate nature makes him a great companion for families, and he thrives on human interaction and belly rubs. Buddy is also very smart and eager to learn new tricks."
     },
     {
         "name": "Luna",
@@ -13,7 +14,8 @@
         "breed": "British Longhair",
         "age": 1,
         "gender": "Female",
-        "img": "../images/cat-1.png"
+        "img": "../images/cat-1.png",
+        "bio": "Luna is a beautiful British Longhair with a soft, fluffy coat. She is curious and affectionate, always exploring her surroundings with an inquisitive gaze. Luna enjoys perching by the window to watch the birds outside and loves being pampered with gentle petting sessions. While she can be independent, she also cherishes quiet cuddle time with her favorite humans."
     },
     {
         "name": "Max",
@@ -21,7 +23,8 @@
         "breed": "Beagle",
         "age": 3,
         "gender": "Male",
-        "img": "../images/dog-2.png"
+        "img": "../images/dog-2.png",
+        "bio": "Max is a lively and intelligent Beagle with a strong sense of smell and an adventurous spirit. He loves sniffing out new scents and enjoys outdoor adventures, whether it’s a walk in the park or a fun game of hide and seek. Max is great with people and other dogs, making him an excellent addition to any loving home."
     },
     {
         "name": "Bella",
@@ -29,7 +32,8 @@
         "breed": "British Shorthair",
         "age": 4,
         "gender": "Female",
-        "img": "../images/cat-2.png"
+        "img": "../images/cat-2.png",
+        "bio": "Bella is a regal and sophisticated British Shorthair with a calm and composed demeanor. She enjoys lounging in sunny spots, observing the world with her wise, golden eyes. Although she may seem aloof at times, Bella has a loving side and enjoys gentle affection on her terms. She would make a wonderful companion for someone looking for a graceful and independent feline friend."
     },
     {
         "name": "Rocky",
@@ -37,7 +41,8 @@
         "breed": "Corgi Mix",
         "age": 5,
         "gender": "Male",
-        "img": "../images/dog-3.png"
+        "img": "../images/dog-3.png",
+        "bio": "Rocky is a lovable Corgi Mix with a big personality packed into a small body. He is full of energy and enjoys going on walks, playing tug-of-war, and meeting new people. Rocky is very affectionate and enjoys being the center of attention. His cheerful and loyal nature makes him a fantastic companion for families or individuals alike."
     },
     {
         "name": "Milo",
@@ -45,6 +50,7 @@
         "breed": "American Curl",
         "age": 2,
         "gender": "Male",
-        "img": "../images/cat-3.png"
+        "img": "../images/cat-3.png",
+        "bio": "Milo is an adventurous and playful American Curl known for his unique curled ears and curious nature. He loves to explore every corner of his home, often finding the most unexpected places to hide. Milo enjoys interactive play with his favorite toys but also has a sweet and cuddly side. After a day of adventure, he loves curling up next to his favorite human for a cozy nap."
     }
 ]
